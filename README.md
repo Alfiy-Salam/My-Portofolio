@@ -7,8 +7,8 @@ Kemampuan _programming_ yang saat ini sedang saya kembangkan, sebagai berikut:
 * Database: MySQL
   Selain itu, ini adalah penggunaan pertama saya dalam menggunakan GitHub. Jadi, tolong bimbingannya, ya.
   
-# Terimakasih.
+Terimakasih.
 
 
-# Salam hangat,
-# Alfi
+Salam hangat,
+Alfi.
