@@ -6,9 +6,7 @@ Kemampuan _programming_ yang saat ini sedang saya kembangkan, sebagai berikut:
 * Frontend: HTML, CSS, dan Java Script (React.js).
 * Database: MySQL
   Selain itu, ini adalah penggunaan pertama saya dalam menggunakan GitHub. Jadi, tolong bimbingannya, ya.
-  
 Terimakasih.
-
 
 Salam hangat,
 Alfi.
